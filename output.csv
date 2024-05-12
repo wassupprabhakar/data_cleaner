@@ -1,0 +1,10 @@
+admission_number,roll_number,name,class,date_of_birth,age,father_name,mother_name,address,pin_code,mobile_number,weight,height,english,hindi,mathematics,science,social_science,sanskrit,total_marks,percentage,attendance,physical_health,communication_skills,final_grade,result,rank,remark
+2018654,18,Shreya Singh,V A,09/01/2013,11,Pradeep Kumar Singh,Manju Singh,852 Karamveer Nagar Near Bhel Om Road Bhopal,462023,8546986284,25kg,160cm,92,96,99,90,98,91,566.0,94.33,75%,A,A,A+,Pass,1,Needs Grading
+201819,,Beirs Malhotra,V A,24/03/2013,11,Chiraiyu Malhotra,Chalu Malhotra,5 Sujalpuram Berasia Road Bhopal,463106,8953435234,55kg,160cm,85,53,82,94,59,97,470.0,78.33,75%,D,B,B+,Pass,2,Needs Grading
+201863,37,Andy Beirs Khurana,V A,24/11/2013,10,Khurana,Jaya Jones, Raiwada Awadhpuri Anand Nagar Bhopal,462023,9331531666,55kg,160cm,70,59,78,69,33,33,342.0,57.0,75%,B,A,C+,Pass,3,Needs Grading
+20186,43,Faith Hornton Jones,V A,26/07/2013,10,Zahir Jones,Jaya Jones,Sonagiri Near Bank Office Piplani Bhopal,462022,8531531666,45kg,160cm,41,68,33,43,57,95,337.0,56.17,75%,B,A,C+,Pass,4,Needs Grading
+2018154,16,Faith Beirs,V A,08/12/2011,12,Kabir Beirs,Sofia Rai Beirs, Panchal Puri A-Sector Gandhi Nagar Bhopal,466896,8654563554,46kg,160cm,33,36,79,36,50,59,293.0,48.83,78%,D,B,C,Pass,5,Good
+201843,25,Tom Thornton Jones,V A,09/10/2013,10,Zahir Jones,Kavya Jones,11 Number Mp Nagar Bhopal,462026,8458462265,40kg,150cm,34,58,33,33,46,50,254.0,42.33,88%,D,A,C,Pass,6,Good
+201854,26,Tom Andrews Sen,V B,24/04/2010,14,Raj Kumar Sen,Meerra Sen,B-Sector Anand Nagar Bhopal,462023,6455521555,45kg,160cm,67,33,50,37,93,55,335.0,55.83,97%,D,A,C+,Pass,1,Needs Grading
+201836,35,Anita Rai Singh,V E,18/05/2012,11,Siddhart Singh,Tina Meena Singh,Doosra Chowraha Arera Hills Bhopal,462011,6997736689,55kg,160cm,100,70,88,54,33,86,431.0,71.83,75%,D,B,B+,Pass,1,Needs Grading
+201857,38,Andy Pal,V F,14/01/2014,10,Hassan Pal,Maya Pal,56/8 Ashoka Balampur Bhopal,462010,8945234678,46kg,120cm,56,66,33,33,33,53,274.0,45.67,75%,B,A,C,Pass,1,Good
